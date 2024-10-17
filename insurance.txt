@@ -1,0 +1,30 @@
+Loan, A sum of money that is borrowed and is expected to be paid back with interest.
+Credit Card, A card issued by a bank that allows users to borrow funds with which to pay for goods and services.
+Mortgage, A loan used to purchase real estate typically with a specified period of repayment and a specified interest rate.
+Debtor, A person or entity that owes money to another party.
+Creditor, A person or entity to whom money is owed by another party.
+Interest Rate, The proportion of a loan that is charged as interest to the borrower typically expressed as an annual percentage rate (APR).
+Principal, The initial amount of money borrowed or invested excluding interest or dividends.
+Default, Failure to fulfill a legal obligation particularly the failure to repay a loan or to meet an obligation under a bond or other debt agreement.
+Bankruptcy, A legal process where a person or business is unable to repay outstanding debts and seeks relief from their creditors.
+Credit Score, A numerical representation of a person's creditworthiness based on their credit history and other financial behavior.
+Debt Consolidation, The process of combining multiple debts into a single larger debt that is easier to manage.
+Repayment Plan, An agreement between a borrower and a creditor outlining how a debt will be repaid over time.
+Collection Agency, A company hired by creditors to collect overdue debts from borrowers who have not paid as agreed.
+Debt-to-Income Ratio, A financial measure that compares a person's total monthly debt payments to their gross monthly income.
+Secured Debt, Debt backed by collateral that the lender can take possession of if the borrower defaults.
+Unsecured Debt, Debt not backed by collateral such as credit card debt or medical bills.
+Debt Settlement, An agreement between a debtor and a creditor to resolve a debt for less than the full amount owed.
+Foreclosure, The legal process by which a lender takes control of a property when the borrower fails to make mortgage payments.
+Debt Snowball Method, A debt reduction strategy where the debtor pays off the smallest debts first gaining momentum to tackle larger debts.
+Debt Avalanche Method, A debt reduction strategy where the debtor pays off debts with the highest interest rates first saving money on interest charges over time.
+Garnishment, A legal process that allows a creditor to take money directly from a debtor's paycheck or bank account to satisfy a debt.
+Debt Forgiveness, The partial or total cancellation of a debt relieving the debtor of the obligation to repay.
+Debt Ceiling, The maximum amount of debt that a government is allowed to incur by law.
+Debt Relief, Various measures aimed at reducing the burden of debt for individuals businesses, or governments.
+Debt Management Plan, A structured repayment plan administered by a credit counseling agency to help individuals repay their debts over time.
+Credit Counseling, Professional guidance and advice provided to individuals facing financial difficulties typically including budgeting and debt management strategies.
+Student Loan Debt, Debt incurred by students to pay for college tuition and other education-related expenses.
+Credit Limit, The maximum amount of credit extended to a borrower by a lender typically on a credit card or line of credit.
+Debt-to-Equity Ratio, A financial measure that compares a company's total debt to its total equity, used to assess financial leverage.
+Installment Loan, A loan that is repaid over time with a set number of scheduled payments, typically including principal and interest.

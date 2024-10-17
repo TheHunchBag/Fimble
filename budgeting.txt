@@ -1,0 +1,30 @@
+Budget, An estimate of income and expenditure for a set period of time.
+Expenses, Money spent on goods or services.
+Income, Money received especially on a regular basis for work or through investments.
+Savings, Portion of income not spent on current expenses or consumption.
+Debt, Money owed typically as a result of borrowing.
+Fixed Expenses, Costs that remain the same from month to month such as rent or mortgage payments.
+Variable Expenses, Costs that vary from month to month, such as groceries or utilities.
+Emergency Fund, Money set aside to cover unexpected expenses or financial emergencies.
+Disposable Income, Income remaining after deduction of taxes and other mandatory charges available to be spent or saved as one wishes.
+Discretionary Spending, Expenditure on things that are not essential.
+Budget Surplus, Situation in which income exceeds expenditure.
+Budget Deficit, Situation in which expenditure exceeds income.
+Budgeting Software, Tools or applications used to manage personal or household budgets.
+Budget Planner, A person who helps individuals or organizations manage their financial resources effectively.
+Budget Worksheet, A tool used to track income and expenses and create a budget plan.
+Budget Categories, Groupings of expenses or income for budgeting purposes such as housing and transportation and food.
+Envelope System, A budgeting method where cash for different spending categories is allocated into separate envelopes.
+Zero-Based Budgeting, A method of budgeting where income minus expenses equals zero ensuring that every dollar is allocated.
+Budget Cycle, The process of creating monitoring and adjusting a budget over a specific period typically monthly or annually.
+Budget Forecast, An estimate of future income and expenses based on past financial data and current trends.
+Budget Review, A periodic evaluation of actual income and expenses compared to the budgeted amounts.
+Budget Allocation, The process of distributing funds to various budget categories based on priorities and financial goals.
+Financial Goals, Objectives or targets related to saving spending or investing money to achieve desired outcomes.
+Budget Discipline, The ability to adhere to a budget and resist the temptation to overspend.
+Budget Adjustment, Changing the budgeted amounts for expenses or income based on changing circumstances or priorities.
+Zero-Sum Budget, A budgeting method where income minus expenses equals zero with every dollar allocated to a specific category.
+Budget Accountability, The responsibility for managing and reporting on the financial performance of a budget.
+Budget Variance, The difference between the budgeted amount and the actual amount spent or earned.
+Budget Constraints, Limitations on spending or income that impact budget planning and decision-making.
+Budget Tracking, Monitoring and recording expenses and income to ensure they align with the budget plan.

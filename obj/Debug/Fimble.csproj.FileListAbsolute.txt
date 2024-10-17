@@ -1,0 +1,21 @@
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.exe.config
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.exe
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.pdb
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.csprojResolveAssemblyReference.cache
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.Form1.resources
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.Properties.Resources.resources
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.csproj.GenerateResource.Cache
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.exe
+c:\users\kgothatso vilakazi\documents\visual studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.pdb
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.exe.config
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.exe
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.pdb
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.exe
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\bin\Debug\Fimble.pdb
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.csprojResolveAssemblyReference.cache
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.Form1.resources
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.HomeScreen.resources
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.Properties.Resources.resources
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.TopicMenu.resources
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.csproj.GenerateResource.Cache
+F:\Users\Admin\Documents\Visual Studio 2012\Projects\Fimble\Fimble\obj\Debug\Fimble.Instruction.resources
